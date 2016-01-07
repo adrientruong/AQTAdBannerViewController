@@ -21,7 +21,6 @@
 // THE SOFTWARE.
 
 #import "AQTAdBannerViewController.h"
-#import <Flurry.h>
 
 const NSTimeInterval AQTAdBannerAnimationDuration = 0.25;
 
