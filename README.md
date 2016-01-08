@@ -30,4 +30,7 @@ bannerViewController.contentViewController = contentViewController;
 
 // toggling ads
 bannerViewController.showsAds = NO;
+
+// changing position of banner
+bannerViewController.bannerPosition = AQTBannerPositionBottom;
 ```
