@@ -1,5 +1,5 @@
 # AQTAdBannerViewController
-A container view controller for adding banner ads to your app
+A container view controller for adding banner ads to your app. It handles hiding and showing the banner ad as well as animating this change for you.
 
 ## Installing
 Core:
