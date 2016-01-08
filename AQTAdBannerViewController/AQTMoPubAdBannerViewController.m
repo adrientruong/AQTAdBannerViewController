@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 #import "AQTMoPubAdBannerViewController.h"
-#import <MPAdView.h>
+#import <mopub-ios-sdk/MPAdView.h>
 
 @interface AQTMoPubAdBannerViewController () <MPAdViewDelegate>
 
