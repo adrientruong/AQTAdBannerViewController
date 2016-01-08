@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source   = { :git => 'https://github.com/adrientruong/AQTAdBannerViewController.git' }
   s.requires_arc = true
   s.source_files = 'AQTAdBannerViewController/AQTAdBannerViewController.{h,m}'
-  s.ios.deployment_target = '6.0'
+  s.ios.deployment_target = '8.0'
 
   s.subspec 'Core' do |core|
       core.source_files = 'AQTAdBannerViewController/AQTAdBannerViewController.{h,m}'
