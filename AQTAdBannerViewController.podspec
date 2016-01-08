@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A container view controller to display ad banners'
   s.homepage = 'https://github.com/adrientruong/AQTAdBannerViewController'
   s.authors  = { 'Adrien Truong' => 'adrien.truong@me.com' }
-  s.source   = { :git => 'https://github.com/adrientruong/AQTAdBannerViewController.git' }
+  s.source   = { :git => 'https://github.com/adrientruong/AQTAdBannerViewController.git', :tag => s.version }
   s.requires_arc = true
   s.source_files = 'AQTAdBannerViewController/AQTAdBannerViewController.{h,m}'
   s.ios.deployment_target = '8.0'
