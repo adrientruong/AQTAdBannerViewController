@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
       core.source_files = 'AQTAdBannerViewController/AQTAdBannerViewController.{h,m}'
   end
 
-  s.subspec 'iAD' do |iad|
+  s.subspec 'iAd' do |iad|
     iad.source_files = 'AQTAdBannerViewController/AQTiAdBannerViewController.{h,m}'
     iad.dependency 'AQTAdBannerViewController/Core'
   end
