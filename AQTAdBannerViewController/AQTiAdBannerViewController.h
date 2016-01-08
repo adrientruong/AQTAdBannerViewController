@@ -22,6 +22,6 @@
 
 #import "AQTAdBannerViewController.h"
 
-@interface AQTiADBannerViewController : AQTAdBannerViewController
+@interface AQTiAdBannerViewController : AQTAdBannerViewController
 
 @end
