@@ -2,18 +2,20 @@
 A container view controller for adding banner ads to your app. It handles hiding and showing the banner ad as well as animating this change for you.
 
 ## Installing
-Core:
-```bash
-$ pod 'AQTAdBannerViewController'
+Add one of these to your Podfile:
+
+Core (abstract base class to subclass to add custom ad banners):
+```
+pod 'AQTAdBannerViewController'
 ```  
 iAd:
-```bash
-$ pod 'AQTAdBannerViewController/iAd'
+```
+pod 'AQTAdBannerViewController/iAd'
 ```
   
 MoPub:
-```bash
-$ pod 'AQTAdBannerViewController/MoPub'
+```
+pod 'AQTAdBannerViewController/MoPub'
 ```
   
 ## Usage
