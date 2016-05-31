@@ -112,6 +112,7 @@ const NSTimeInterval AQTAdBannerAnimationDuration = 0.25;
     if ([self isBannerViewInstalled]) {
         [self.bannerView removeFromSuperview];
     }
+    self.bannerView = nil;
 }
 
 #pragma mark - Controlling whether to show ads or not
